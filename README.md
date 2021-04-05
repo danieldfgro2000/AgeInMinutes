@@ -1,5 +1,5 @@
 # AgeInMinutes
-Part of Udemy course by Dennis Panjuta, link bellow: 
+Part of Udemy course by Denis Panjuta, link bellow: 
 
 https://www.udemy.com/course/android-kotlin-developer/learn/lecture/18000437?start=15#overview
 
